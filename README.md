@@ -10,6 +10,7 @@ By the end of this lesson, students would be able to:
 
 ## Resources
 
+- [Pre-lesson](./pre-lesson-work.md)
 - [Lesson](./lesson.md)
 - [Homework](./homework.md)
 
