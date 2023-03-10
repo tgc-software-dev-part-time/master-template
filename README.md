@@ -16,15 +16,6 @@ By the end of this lesson, students would be able to:
 
 ## Lesson Plan
 
-> This is a recommended lesson plan. Instructors are free to re-arrange the flow.
-
-Weekday: 
-- 7:30PM to 10PM
-
-Weekend: 
-- 10AM to 12:30PM or 
-- 2PM to 4:30PM
-
 |Duration|Agenda|Delivery Method|Remarks|
 |-|-|-|-|
 |10 mins|Walk-in & Hook|Lecture|Intrigue students' curiosity about today's topic while giving buffer time for students who are late.|
